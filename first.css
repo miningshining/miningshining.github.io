@@ -1,0 +1,168 @@
+body
+{
+margin:0px auto;
+max-width:100%;
+overflow-x:hidden;
+}
+#form-i input[type=text]
+{
+position:relative;
+top:10px;
+float:right;
+
+ width:90px;
+    box-sizing: border-box;
+    border: 2px solid #ccc;
+    border-radius: 2px;
+    font-size: 12px;
+    background-color:black;
+    color:white;
+    background-image: url("search-icon.png");
+    background-position: 20px 10px; 
+    background-repeat: no-repeat;
+    padding: 5px 10px 5px 10px;
+}
+.container-fluid
+{
+background-color:hsl(0,100%,4%);
+}
+.form-group
+{
+position:relative;
+top:0px;
+left:-10px;
+}
+.navbar-brand
+{
+font-family: 'Oswald', sans-serif;
+position:relative;
+left:25px;
+font-size:0.95em;
+word-spacing:2px;
+font-weight:100%;
+line-height:120%;
+}
+.container-fluid li a
+{
+position:relative;
+left:80px;
+font-family: 'Khula', sans-serif;
+}
+#imag
+{
+position:relative;
+top:0px;
+left:-70px;
+}
+h3
+{
+position:relative;
+top:-70px;
+font-family: 'Roboto Slab', serif;
+word-break:break-all;
+}
+h4
+{
+position:relative;
+top:-75px;
+left:9px;
+font-family: 'Metamorphous', cursive;
+font-size:0.8em;
+}
+#ende
+{
+margin-left:10px;
+width:1366px;
+}
+.mag figure
+{
+position:absolute;
+top:205px;
+left:0px;
+opacity:0;
+}
+.mag figcaption
+{
+text-align:center;
+width:100px;
+opacity: 0;
+transition: opacity .5s,width 5s;
+background:rgba(0,0,0,0.3); 
+color:white;
+font-family:'Open Sans', sans-serif;
+font-size:1.3em;
+position:absolute;
+top:230px;
+left:150px;
+overflow-y:hidden;
+max-height:200px;
+}
+.mag:hover figure figcaption
+{
+transition: opacity .5s;
+opacity: 1;
+width:1000px;
+}
+@keyframes xra
+{
+0%
+{opacity:1;
+}
+11.42%
+{
+opacity:1;
+}
+14.28%
+{
+opacity:0;
+}
+97.143%
+{
+opacity:0;
+}
+100%
+{
+opacity:1;
+}
+}
+figure:nth-child(1)
+{
+-moz-animation:xra 35s 30s infinite;
+-webkit-animation:xra 35s 30s infinite;
+}
+figure:nth-child(2)
+{
+-moz-animation:xra 35s 25s infinite;
+-webkit-animation:xra 35s 25s infinite;
+}
+figure:nth-child(3)
+{
+-moz-animation:xra 35s 20s infinite;
+-webkit-animation:xra 35s 20s infinite;
+}
+figure:nth-child(4)
+{
+-moz-animation:xra 35s 15s infinite;
+-webkit-animation:xra 35s 15s infinite;
+}
+figure:nth-child(5)
+{
+-moz-animation:xra 35s 10s infinite;
+-webkit-animation:xra 35s 10s infinite;
+}
+figure:nth-child(6)
+{
+-moz-animation:xra 35s 5s infinite;
+-webkit-animation:xra 35s 5s infinite;
+}
+figure:nth-child(7)
+{
+-moz-animation:xra 35s 0s infinite;
+-webkit-animation:xra 35s 0s infinite;
+}
+#short
+{
+font-family: 'Josefin Sans', sans-serif;
+font-size:2em;
+overflow-y:hidden;
+}

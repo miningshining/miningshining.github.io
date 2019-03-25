@@ -1,0 +1,178 @@
+.menschen
+{
+position:absolute;
+top:4800px;
+width:100%;
+height:500px;
+background-color:darkseagreen;
+}
+.menschen h2
+{
+opacity:1;
+position:relative;
+top:30px;
+left:560px;
+font-family: 'Oxygen', sans-serif;
+color:#D2691E;
+font-size:3em;
+}
+.menschen form
+{
+opacity:1;
+position:relative;
+top:90px;
+left:100px;
+}
+.menschen form input[type=text]
+{
+opacity:1;
+padding-left:50px;
+margin-left:10px;
+height:35px;
+width:15%;
+border:2px solid brown;
+}
+.menschen form input[type=password]
+{
+opacity:1;
+padding-left:50px;
+margin-left:10px;
+height:35px;
+width:15%;
+border:2px solid brown;
+}
+.menschen form input[type=text]:focus
+{
+opacity:1;
+border:2px solid #FAEBD7;
+}
+.menschen form input[type=password]:focus
+{
+opacity:1;
+border:2px solid #FAEBD7;
+}
+#tform
+{
+opacity:1;
+color:purple;
+font-family: 'Bahiana', cursive;
+font-size:1.9em;
+letter-spacing:1.5px;
+text-shadow:1px 1px red;
+}
+.menschen p
+{
+opacity:1;
+font-family: 'Bentham', serif;
+font-size:1.8em;
+position:relative;
+top:90px;
+left:200px;
+}
+#sub
+{
+opacity:1;
+position:relative;
+top:20px;
+left:110px;
+width:12%;
+height:40px;
+border:2px solid blue;
+font-family:'Montserrat',sans-serif;
+font-size:1.5em;
+border-radius:4px;
+background-color:black;
+color:white;
+}
+#sub:hover
+{
+background-color:darkslategrey;
+color:black;
+}
+#signup
+{
+position:relative;
+top:-220px;
+left:400px;
+}
+#signup p
+{
+font-size:3em;
+font-family: 'Averia Sans Libre', cursive;
+}
+#signup button
+{
+position:relative;
+top:100px;
+left:430px;
+width:12%;
+height:40px;
+border:2px solid blue;
+font-family:'Montserrat',sans-serif;
+font-size:1.5em;
+border-radius:4px;
+background-color:black;
+color:white;
+}
+#signup button:hover
+{
+background-color:darkslategrey;
+color:black;
+}
+#letzte
+{
+position:absolute;
+top:5500px;
+}
+.ulist li
+{
+list-style-type:none;
+float:left;
+}
+#pill1
+{
+background-color:darkslateblue;
+position:relative;
+top:-100px;
+left:300px;
+border-radius:3px;
+width:383px;
+height:50px;
+}
+#pill1 a
+{
+display:block;
+font-family: 'Miriam Libre', sans-serif;
+font-size:1.5em;
+color:white;
+text-align:center;
+text-decoration:none;
+position:relative;
+top:9px;
+}
+#pill2
+{
+background-color:darkslateblue;
+position:relative;
+top:-100px;
+left:303px;
+border-radius:3px;
+width:383px;
+opacity:0.3;
+height:50px;
+}
+#pill2 a
+{
+display:block;
+font-family: 'Miriam Libre', sans-serif;
+font-size:1.5em;
+color:white;
+text-decoration:none;
+text-align:center;
+position:relative;
+top:9px;
+}
+#pill2:hover
+{
+opacity:1;
+}

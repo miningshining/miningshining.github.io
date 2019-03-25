@@ -1,0 +1,169 @@
+.mitte p
+{
+font-family: 'Assistant', sans-serif;
+font-size:3em;
+position:relative;
+top:490px;
+left:450px;
+font-weight:100%;
+}
+.mitte h4
+{
+font-family:'Ropa Sans', sans-serif;
+font-size:2em;
+}
+.mitte img
+{
+border-radius:5px;
+}
+.mitte img:hover
+{
+transform:scale(1.005);
+}
+.mitte_vision
+{
+	position:relative;
+	top:-50px;
+	left:40px;
+}
+.mitte_vision p
+{
+font-family: 'Assistant', sans-serif;
+font-size:2em;
+font-weight:100%;
+}
+#eins p
+{
+position:absolute;
+top:1550px;
+left:70px;
+font-family:'Cantarell', sans-serif;
+font-size:1.2em;
+color:#DC143C;
+font-weight:50%;
+}
+#zwei p
+{
+position:absolute;
+top:1550px;
+left:696px;
+font-family:'Cantarell', sans-serif;
+font-size:1.2em;
+color:#DC143C;
+font-weight:50%;
+}
+#drei p
+{
+position:absolute;
+top:2200px;
+left:70px;
+font-family:'Cantarell', sans-serif;
+font-size:1.2em;
+color:#DC143C;
+font-weight:50%;
+}
+#vier p
+{
+position:absolute;
+top:2200px;
+left:696px;
+font-family:'Cantarell', sans-serif;
+font-size:1.2em;
+color:#DC143C;
+font-weight:50%;
+}
+#funf p
+{
+position:absolute;
+top:2915px;
+left:70px;
+font-family:'Cantarell', sans-serif;
+font-size:1.2em;
+color:#DC143C;
+font-weight:50%;
+}
+#sechs p
+{
+position:absolute;
+top:2915px;
+left:696px;
+font-family:'Cantarell', sans-serif;
+font-size:1.2em;
+color:#DC143C;
+font-weight:50%;
+}
+#sieben p
+{
+position:absolute;
+top:3615px;
+left:70px;
+font-family:'Cantarell', sans-serif;
+font-size:1.2em;
+color:#DC143C;
+font-weight:50%;
+}
+#acht p
+{
+position:absolute;
+top:3615px;
+left:696px;
+font-family:'Cantarell', sans-serif;
+font-size:1.2em;
+color:#DC143C;
+font-weight:50%;
+}
+#map
+{
+position:absolute;
+top:3800px;
+left:200px;
+}
+.jum
+{
+height:500px;
+width:1366px;
+position:absolute;
+top:4300px;
+}
+.jumbotron
+{
+height:500px;
+}
+.jum h1
+{
+position:relative;
+left:550px;
+font-family:'El Messiri', sans-serif;
+font-size:3.5em;
+}
+.jum ul
+{
+position:relative;
+left:150px;
+top:100px;
+float:left;
+}
+.jum li
+{
+list-style-type:none;
+float:left;
+}
+.jum li a
+{
+text-decoration:none;
+}
+.jum li h5
+{
+font-family: 'Slabo 27px', serif;
+font-size:2em;
+color:brown;
+}
+.jum li p
+{
+font-size:1.2em;
+color:#BDB76B;
+}
+.jum img:hover
+{
+transform:translate(0px,-5px);
+}
