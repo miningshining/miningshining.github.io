@@ -1,10 +1,10 @@
 .mitte p
 {
 font-family: 'Assistant', sans-serif;
-font-size:3em;
+font-size:2em;
 position:relative;
-top:490px;
-left:450px;
+top:370px;
+left:180px;
 font-weight:100%;
 }
 .mitte h4
@@ -167,3 +167,23 @@ color:#BDB76B;
 {
 transform:translate(0px,-5px);
 }
+.blog
+{
+ margin-left:20%;
+ margin-right:20%;
+ position:relative;
+ top:-100px;
+}
+.blog p
+{
+    font-family: 'Source Serif Pro', serif;
+	font-size:1.5em;
+}
+.blog img
+{
+	margin-left:20%;
+	height:200px;
+	width:500px;
+}
+	
+	
